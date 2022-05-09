@@ -25,7 +25,7 @@ Expected Challenges and Obstacles:
 - Migrate iTunes library to Windows (preserving play counts, ratings, playlists and smart playlists)
 - Migrate cable-sync of iOS devices (ensuring live photos are preserved)
 - Migrate Lightroom Library (ideally taking the opportunity to have iPhone live photos preserved)
-- Scansnap S1500M Scanner - Mac specific, does it work on Windows? Note only 32-bit
+- Scansnap S1500M Scanner - Mac specific, does it work on Windows? Note only 32-bit (note, according to [Fujitsu's (Discontinued) Product Page][fuji01], the scanner is compatible with Windows). The Windows software seems to be available from the [Fujitsu Download Page][fuji02]
 - 
 
 
@@ -39,3 +39,14 @@ Expected Challenges and Obstacles:
 - Git
 - Vim
 
+
+
+
+
+
+
+
+
+
+[fuji01]: https://www.fujitsu.com/ca/en/products/computing/peripheral/scanners/scansnap/discontinued/s1500m/s1500m.html
+[fuji02]: https://www.fujitsu.com/global/support/products/computing/peripheral/scanners/scansnap/software/s1500.html
