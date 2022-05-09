@@ -34,7 +34,7 @@ Expected Challenges and Obstacles:
 ---------------------------------
 
 - WSL (see [Awesome WSL][gith01])
-- Offce 365
+- Office 365
 - Cloud Services (Dropbox/OneDrive)
 - Git
 - Vim
