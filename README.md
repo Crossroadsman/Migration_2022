@@ -30,6 +30,8 @@ Expected Challenges and Obstacles:
 - Migrate cable-sync of iOS devices (ensuring live photos are preserved)
 - Migrate Lightroom Library (ideally taking the opportunity to have iPhone live photos preserved)
 - Scansnap S1500M Scanner - Mac specific, does it work on Windows? Note only 32-bit (note, according to [Fujitsu's (Discontinued) Product Page][fuji01], the scanner is compatible with Windows). The Windows software seems to be available from the [Fujitsu Download Page][fuji02]
+- Backup (currently using Backblaze. Might need to keep a Mac connected to Drobo 5D then use Drobo to regularly backup from Synology then use Backblaze to backup from Drobo)
+- Air Video Server (migrate to Plex?)
 
 
 Pre-Migration Preparation
