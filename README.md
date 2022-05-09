@@ -33,7 +33,7 @@ Expected Challenges and Obstacles:
 2022 Razer Blade 17 Initial Setup
 ---------------------------------
 
-- WSL
+- WSL (see [Awesome WSL][gith01])
 - Offce 365
 - Cloud Services (Dropbox/OneDrive)
 - Git
@@ -50,3 +50,4 @@ Expected Challenges and Obstacles:
 
 [fuji01]: https://www.fujitsu.com/ca/en/products/computing/peripheral/scanners/scansnap/discontinued/s1500m/s1500m.html
 [fuji02]: https://www.fujitsu.com/global/support/products/computing/peripheral/scanners/scansnap/software/s1500.html
+[gith01]: https://github.com/sirredbeard/Awesome-WSL
