@@ -32,6 +32,12 @@ Expected Challenges and Obstacles:
 - Scansnap S1500M Scanner - Mac specific, does it work on Windows? Note only 32-bit (note, according to [Fujitsu's (Discontinued) Product Page][fuji01], the scanner is compatible with Windows). The Windows software seems to be available from the [Fujitsu Download Page][fuji02]
 
 
+Pre-Migration Preparation
+-------------------------
+
+- Vivaldi: Set up and enable sync (CMD+, then select Sync, then complete the Wizard)
+
+
 
 2022 Razer Blade 17 Initial Setup
 ---------------------------------
